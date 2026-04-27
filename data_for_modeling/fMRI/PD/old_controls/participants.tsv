@@ -1,0 +1,26 @@
+participant_id	sex	site	agegroup	age	education	openneuro	flair_slicediff	rest_voldiff
+sub-126	F	1	O	75	22.0	0	0	0
+sub-182	F	1	O	71	14.0	0	0	0
+sub-183	F	1	O	74	18.0	0	0	0
+sub-193	M	1	O	75	24.0	0	1	0
+sub-195	M	1	O	78	18.0	0	0	0
+sub-197	M	1	O	83	22.0	0	0	0
+sub-201	M	1	O	78	19.0	0	0	0
+sub-203	M	1	O	76	22.0	0	0	0
+sub-269	M	2	O	77	18.0	0	0	0
+sub-272		2	O	77	20.0	0	0	0
+sub-274	F	2	O	80	20.0	0	0	0
+sub-280	F	2	O	82	18.0	0	0	0
+sub-281	F	2	O	71	14.0	0	0	0
+sub-286	M	2	O	75	14.0	0	0	0
+sub-287	F	2	O	72	15.0	0	0	0
+sub-288	M	2	O	80	20.0	0	0	0
+sub-291	F	2	O	78	14.0	0	0	0
+sub-292	F	2	O	79	18.0	0	0	0
+sub-293	F	2	O	75	13.0	0	0	0
+sub-294	F	2	O	78	16.0	0	0	0
+sub-295	M	2	O	80	16.0	0	0	0
+sub-296	F	2	O	79	14.0	0	0	0
+sub-298	F	2	O	73	18.0	0	0	0
+sub-299	F	2	O	76	16.0	0	0	0
+sub-301	F	2	O	72	18.0	0	0	0
