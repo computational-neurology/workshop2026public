@@ -1,7 +1,7 @@
-# Schizophrenia EEG Dataset
+# Schizophrenia EEG Dataset + control group
 
 
-- `norm/`: healthy control recordings
+- `control/`: healthy control recordings
 - `sch/`: schizophrenia recordings
 
 ! Data is already preprocessed, but for your information, we describe which preprocessing steps were performed.

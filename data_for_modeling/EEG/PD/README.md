@@ -1,10 +1,7 @@
 # Parkinson EEG + control group
 
-## Dataset Structure
-
-The local dataset documentation describes:
-  - `49` controls
-  - `100` Parkinson disease subjects
+  - `Control/`: healthy control recordings
+  - `PD/`: Parkinson disease subjects
 
 
 ! Data is already preprocessed, but for your information, we describe which preprocessing steps were performed.
