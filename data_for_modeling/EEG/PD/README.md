@@ -16,5 +16,8 @@
 6. Downsample to `125 Hz`.
 7. Fit ICA and run automatic EOG component detection with `ica.find_bads_eog`. Fp1` was used for automatic EOG component detection.
 8. Apply detected ICA exclusions.
-9. Export as MNE raw FIF files named `*_preproc_raw.fif`.
+9. Export as MNE raw FIF files named `*_preproc_raw.fif`
+
+# use mne.io.read_raw_fif to read a file
+https://mne.tools/stable/generated/mne.io.read_raw_fif.html
 

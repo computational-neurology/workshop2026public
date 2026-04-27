@@ -18,5 +18,8 @@
 8. Apply detected ICA exclusions.
 9. Export as MNE raw FIF files 
 
+# use mne.io.read_raw_fif to read a file
+https://mne.tools/stable/generated/mne.io.read_raw_fif.html
+
 
 
